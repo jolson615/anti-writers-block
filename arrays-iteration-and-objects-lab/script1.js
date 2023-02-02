@@ -1,14 +1,13 @@
-// arrays
+// Arrays
 // Mini-Launch -> Something about comparing individual variables to an array? Can be super light touch.
 
 // Create an array
 
 fav_foods = ["Cheeseburger", "Ramen", "Tamales", "Bulgogi", "Donuts"];
 
-// CRUD tasks with foods array
+// RUD tasks with foods array
 
 // Student create array of top 5 bands (or whatever)
-
 // CRUD tasks with bands array
 
 // Array methods

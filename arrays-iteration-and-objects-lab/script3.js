@@ -1,8 +1,10 @@
 // Array Iteration
 
-// filter, map, foreach / for of, [stretch: reduce]
+// filter, map, forEach / for of, [stretch: reduce]
 
-// Level 1: input array of words
+///////////
+// LEVEL 1: input array of words
+///////////
 
 fav_foods = ["Cheeseburger", "Ramen", "Tamales", "Bulgogi", "Donuts"];
 
@@ -18,7 +20,10 @@ fav_foods = ["Cheeseburger", "Ramen", "Tamales", "Bulgogi", "Donuts"];
 
 // Produce this: ["C","R","T","B","D"]
 
-// Level 2: input array of objects ^do each one once, 2x map.
+///////////
+// LEVEL 2: input array of objects ^do each one once, 2x map.
+///////////
+
 
 const people = [
   {
